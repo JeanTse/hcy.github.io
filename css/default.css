@@ -11683,7 +11683,7 @@ figure.highlight.foldable div.level-left {
 }
 @media only screen and (max-width: 767px) {
   .iframe_video {
-    height: 15em;
+    height: 22em;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -11693,7 +11693,7 @@ figure.highlight.foldable div.level-left {
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .iframe_video {
-    height: 30em;
+    height: 28em;
   }
 }
 @media only screen and (min-width: 1200px) {
